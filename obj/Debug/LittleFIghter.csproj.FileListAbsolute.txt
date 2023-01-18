@@ -1,0 +1,8 @@
+C:\GitHub\LittleFIghter\bin\Debug\LittleFIghter.exe.config
+C:\GitHub\LittleFIghter\bin\Debug\LittleFIghter.exe
+C:\GitHub\LittleFIghter\bin\Debug\LittleFIghter.pdb
+C:\GitHub\LittleFIghter\obj\Debug\LittleFIghter.csproj.AssemblyReference.cache
+C:\GitHub\LittleFIghter\obj\Debug\LittleFIghter.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\LittleFIghter\obj\Debug\LittleFIghter.csproj.CoreCompileInputs.cache
+C:\GitHub\LittleFIghter\obj\Debug\LittleFIghter.exe
+C:\GitHub\LittleFIghter\obj\Debug\LittleFIghter.pdb
